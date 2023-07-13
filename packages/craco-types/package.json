@@ -1,5 +1,5 @@
 {
-  "name": "@craco/types",
+  "name": "@faintlines/craco-types",
   "description": "Official type declarations for @craco/craco",
   "version": "7.1.0",
   "main": "dist/index.js",
